@@ -1,0 +1,641 @@
+#EXTM3U
+#EXTINF:-1 xui-id="750" tvg-id="" tvg-name="COLOMBIA HD | CARACOL INTERNACIONAL" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL INTERNACIONAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_900If1va_I4HkJB3tVLTM/ts
+#EXTINF:-1 xui-id="751" tvg-id="" tvg-name="COLOMBIA HD | CANAL UNO" tvg-logo="https://static.epg.best/co/CanalUno.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CANAL UNO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz6iGGuw_xaApYGx2M5bDXg/ts
+#EXTINF:-1 xui-id="752" tvg-id="" tvg-name="COLOMBIA HD | PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="COLOMBIA HD",COLOMBIA HD | PASIONES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xxfg_jYfBLlcFUs6cKj8i2M/ts
+#EXTINF:-1 xui-id="753" tvg-id="" tvg-name="COLOMBIA HD | TELEPACIFICO" tvg-logo="https://static.epg.best/co/Telepacifico.co.png" group-title="COLOMBIA HD",COLOMBIA HD | TELEPACIFICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0Cfol6Htzon3GV4NZwLMdY/ts
+#EXTINF:-1 xui-id="754" tvg-id="" tvg-name="COLOMBIA HD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xy3JlZL9B1NAeTvzcK1r5KM/ts
+#EXTINF:-1 xui-id="755" tvg-id="" tvg-name="COLOMBIA HD | RCN" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="COLOMBIA HD",COLOMBIA HD | RCN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzV176WgIGrlW22ILkChuYI/ts
+#EXTINF:-1 xui-id="756" tvg-id="RCNTEL" tvg-name="COLOMBIA SD | RCN NOVELA" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="COLOMBIA SD",COLOMBIA SD | RCN NOVELA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xw655-sfsUx6pAKnk6xQptA/ts
+#EXTINF:-1 xui-id="758" tvg-id="" tvg-name="COLOMBIA HD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X72vQov9pMrB92TwwGta7wk/ts
+#EXTINF:-1 xui-id="759" tvg-id="" tvg-name="COLOMBIA HD | CARACOL INTERNACIONAL" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL INTERNACIONAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8yncgpwuO2HHVfExEgTpKU/ts
+#EXTINF:-1 xui-id="760" tvg-id="COLOM" tvg-name="COLOMBIA SD | CITY TV" tvg-logo="https://static.epg.best/co/CityTV.co.png" group-title="COLOMBIA SD",COLOMBIA SD | CITY TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2M1P3NG2CjqlTQ0c_aYDek/ts
+#EXTINF:-1 xui-id="761" tvg-id="" tvg-name="COLOMBIA HD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6Cqkn_5ueNisHdI7epR1YE/ts
+#EXTINF:-1 xui-id="762" tvg-id="" tvg-name="COLOMBIA HD | RCN" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="COLOMBIA HD",COLOMBIA HD | RCN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6BHASN0nunIXp9a7xDTtCw/ts
+#EXTINF:-1 xui-id="763" tvg-id="" tvg-name="COLOMBIA HD | RCN TELENOVELA" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="COLOMBIA HD",COLOMBIA HD | RCN TELENOVELA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8rwabDT4MSHaCPSnDurUZE/ts
+#EXTINF:-1 xui-id="764" tvg-id="" tvg-name="COLOMBIA HD | TELEPACIFICO" tvg-logo="https://static.epg.best/co/Telepacifico.co.png" group-title="COLOMBIA HD",COLOMBIA HD | TELEPACIFICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3EF8o_2oXcYJA4RzHqTwtg/ts
+#EXTINF:-1 xui-id="765" tvg-id="TELEAN" tvg-name="COLOMBIA SD | TELEANTIOQUIA" tvg-logo="https://static.epg.best/co/Teleantioquia.co.png" group-title="COLOMBIA SD",COLOMBIA SD | TELEANTIOQUIA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzGe8ST-gU5fp9Xi-ZE0wmw/ts
+#EXTINF:-1 xui-id="766" tvg-id="" tvg-name="COLOMBIA HD | TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA HD",COLOMBIA HD | TELEMEDELLIN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2mBhbmg5-t3HO9NIDOEWJQ/ts
+#EXTINF:-1 xui-id="767" tvg-id="" tvg-name="COLOMBIA HD | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA HD",COLOMBIA HD | SEÑAL COLOMBIA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7rF9ze0Ww_dImc1z_AcOjo/ts
+#EXTINF:-1 xui-id="768" tvg-id="" tvg-name="WIN SPORTS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN SPORTS & WIN SPORTS+",WIN SPORTS | HD
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwxONJV_nVaaelVqlbTPddQ/ts
+#EXTINF:-1 xui-id="769" tvg-id="" tvg-name="WIN SPORTS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN SPORTS & WIN SPORTS+",WIN SPORTS | HD
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X62GPXIJusseSL0fzuQgMIg/ts
+#EXTINF:-1 xui-id="770" tvg-id="" tvg-name="WIN SPORTS + | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN SPORTS & WIN SPORTS+",WIN SPORTS + | SD
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwJuAJftTor0b4uYhc1If3I/ts
+#EXTINF:-1 xui-id="771" tvg-id="" tvg-name="COLOMBIA HD | NTN24" tvg-logo="https://static.epg.best/co/NuestraTeleNoticias24.co.png" group-title="COLOMBIA HD",COLOMBIA HD | NTN24
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_W4PoGERuGc8KkRT0hW_cc/ts
+#EXTINF:-1 xui-id="772" tvg-id="COLOM" tvg-name="COLOMBIA SD | MUNDO +" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/7/70/Mundo_N.png/revision/latest/top-crop/width/360/height/450?cb=20190622234036&path-prefix=es" group-title="COLOMBIA SD",COLOMBIA SD | MUNDO +
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-z9WtzWr6aIeGcRMkD9pUw/ts
+#EXTINF:-1 xui-id="773" tvg-id="" tvg-name="COLOMBIA HD | TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/800px-Telecaribe2017.png" group-title="COLOMBIA HD",COLOMBIA HD | TELECARIBE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_MieEwRLdjYIwvt3bk6TUE/ts
+#EXTINF:-1 xui-id="774" tvg-id="CAPITAL" tvg-name="COLOMBIA LOCAL | CANAL CAPITAL" tvg-logo="https://static.epg.best/co/CanalCapital.co.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL CAPITAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X72_pUgBoCstRCg5lRxGgHQ/ts
+#EXTINF:-1 xui-id="775" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL TRECE" tvg-logo="https://static.epg.best/co/CanalTrece.co.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL TRECE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9S5Oq7J-8Nly3NkgvI2FVA/ts
+#EXTINF:-1 xui-id="776" tvg-id="" tvg-name="COLOMBIA LOCAL | SUDAN" tvg-logo="http://Fastvplayer.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwA8eLxYr1Clh3ZDNr_J1aPbE-c3itUbWZYobKndiszueY.PNG" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | SUDAN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8OtC4pG_KA5DkGy9kBqOA0/ts
+#EXTINF:-1 xui-id="777" tvg-id="" tvg-name="COLOMBIA LOCAL | AMORDISCOS TV" tvg-logo="https://i1.wp.com/amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha.png?resize=150%2C150&ssl=1" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | AMORDISCOS TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0ICNGxGcFIOIQa9ls2y8IM/ts
+#EXTINF:-1 xui-id="778" tvg-id="" tvg-name="COLOMBIA LOCAL | CALI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_CaliTV.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CALI TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0sPtyWlmgYH53LY9n-IoHI/ts
+#EXTINF:-1 xui-id="779" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL CNC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-canal-cnc-estrella-9367.jpg" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL CNC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9oBiDVKjwKyshmhRM7UBaM/ts
+#EXTINF:-1 xui-id="780" tvg-id="" tvg-name="COLOMBIA LOCAL | CNC MEDELLIN" tvg-logo="http://Fastvplayer.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0EGWG_ds5DUuR-Jntp3LKXSlTODqBUi_pQM8TylioF4TI.PNG" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CNC MEDELLIN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyuZ17gUWMxr5SN6smqE6D8/ts
+#EXTINF:-1 xui-id="781" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL CAPITAL" tvg-logo="https://static.epg.best/co/CanalCapital.co.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL CAPITAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0EJLu9N9epu7yGeCz6P2Hk/ts
+#EXTINF:-1 xui-id="782" tvg-id="" tvg-name="COLOMBIA LOCAL | COSMOVISION" tvg-logo="https://static.epg.best/co/Cosmovision.co.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | COSMOVISION
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4nloBCIj-aj5PLNcwgyDWQ/ts
+#EXTINF:-1 xui-id="783" tvg-id="" tvg-name="COLOMBIA LOCAL | TV AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TV AGRO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-as04_xYi5m59T5FE2-EAc/ts
+#EXTINF:-1 xui-id="784" tvg-id="" tvg-name="COLOMBIA LOCAL | TV GRACIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rfqFa700A2w1OYzpEg1YYB6f3jsHe4BLZb9xAiuIX23-agNnPetlhlE_xqRA1-KHE5Q&usqp=CAU" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TV GRACIA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9Dke7TWKhR8dhvlqTtnwMw/ts
+#EXTINF:-1 xui-id="785" tvg-id="" tvg-name="COLOMBIA LOCAL | BUENISIMA RADIO TV" tvg-logo="https://www.m3u.cl/logo/898_Buenisima_Radio_TV.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | BUENISIMA RADIO TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3ZYbXe60kOJjP9EzvrVCJI/ts
+#EXTINF:-1 xui-id="786" tvg-id="" tvg-name="COLOMBIA LOCAL | TV PEÑOL" tvg-logo="https://www.m3u.cl/logo/860_TV_Penol.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TV PEÑOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9Go0duPzXTUfxRxkavPjT0/ts
+#EXTINF:-1 xui-id="787" tvg-id="" tvg-name="COLOMBIA LOCAL | RECUERDOS RETRO RADIO TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | RECUERDOS RETRO RADIO TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3RgXA9nw0jo7s4FWe4pK84/ts
+#EXTINF:-1 xui-id="788" tvg-id="" tvg-name="COLOMBIA LOCAL | TELE PASTO" tvg-logo="https://www.m3u.cl/logo/804_Tele_Pasto.jpg" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TELE PASTO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0EAkIp9b7I8q8fn2M2LH3Q/ts
+#EXTINF:-1 xui-id="789" tvg-id="" tvg-name="COLOMBIA LOCAL | TV GRACIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rfqFa700A2w1OYzpEg1YYB6f3jsHe4BLZb9xAiuIX23-agNnPetlhlE_xqRA1-KHE5Q&usqp=CAU" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TV GRACIA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xw-HFa-eF85Q15VN8HVSz3U/ts
+#EXTINF:-1 xui-id="790" tvg-id="" tvg-name="COLOMBIA LOCAL | TELEFAMILIA" tvg-logo="https://www.m3u.cl/logo/187_Tele_Familia.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TELEFAMILIA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_EapuE36cEwSrysoe4Fjic/ts
+#EXTINF:-1 xui-id="791" tvg-id="" tvg-name="COLOMBIA LOCAL | MELODY CHANNEL" tvg-logo="http://Fastvplayer.com:8080/images/pUHDjlFDNzpYrovC35TR8J4PeBwxwQP4pjqtzxtispSWCwtE3HDNx7LMAEdfBySagFTvfXjjeQ2yHGrq_i_kDA.jpg" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | MELODY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X67lmX1-94JeV7l69NmPUBc/ts
+#EXTINF:-1 xui-id="792" tvg-id="" tvg-name="COLOMBIA LOCAL | CTV" tvg-logo="https://www.m3u.cl/logo/126_CTV.jpg" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CTV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwU2B658sfawwnJO7HrJC5I/ts
+#EXTINF:-1 xui-id="793" tvg-id="" tvg-name="COLOMBIA LOCAL | TDI" tvg-logo="https://www.m3u.cl/logo/130_TDI.jpg" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | TDI
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz8fK2p3SOa77L6s71fuLVk/ts
+#EXTINF:-1 xui-id="794" tvg-id="" tvg-name="ECUADOR LOCAL | ASOMAVISION" tvg-logo="http://Fastvplayer.com:8080/images/pUHDjlFDNzpYrovC35TR8NTX980toHCnaIEztruv1A5J4SQc2YXsLIzRrZ9b06Cy.png" group-title="ECUADOR LOCAL",ECUADOR LOCAL | ASOMAVISION
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxpS-MySaaSKDyS2SR2AGOo/ts
+#EXTINF:-1 xui-id="795" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL DOCE SINCELEJO" tvg-logo="" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL DOCE SINCELEJO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5X4OQnC51cpllwOkwAkjHI/ts
+#EXTINF:-1 xui-id="796" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL CNC PASTO" tvg-logo="http://Fastvplayer.com:8080/images/pUHDjlFDNzpYrovC35TR8NMoTqizWza3P4C5cdfSzoudNzJGctWZbH0_enM2mQRS.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL CNC PASTO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3MXGduxh2g3OsmFnRj1tIk/ts
+#EXTINF:-1 xui-id="797" tvg-id="CANALIN" tvg-name="COLOMBIA LOCAL | CANAL INSTITUCIONAL" tvg-logo="http://Fastvplayer.com:8080/images/pUHDjlFDNzpYrovC35TR8Lj7FwIYORt2IVUKqX8wIBc9sLGV0eg2B0yFjjw6toFFOoq8sbTZB8AxLhgApNoWXA.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL INSTITUCIONAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyPjPa6YhoorQmBh-I3BDKs/ts
+#EXTINF:-1 xui-id="798" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL TRECE" tvg-logo="https://static.epg.best/co/CanalTrece.co.png" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL TRECE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xy_W_tf_TpjsCHe2Psxf2xQ/ts
+#EXTINF:-1 xui-id="799" tvg-id="" tvg-name="COLOMBIA LOCAL | CANAL VISION DORADA" tvg-logo="https://www.m3u.cl/logo/122_Canal_Vision_Dorada.jpg" group-title="COLOMBIA LOCAL",COLOMBIA LOCAL | CANAL VISION DORADA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzlaIAhJZt_jeXFbLrK31MU/ts
+#EXTINF:-1 xui-id="800" tvg-id="COLOM" tvg-name="COLOMBIA SD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA SD",COLOMBIA SD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyH7X_5BSlD49RSLmLJJMQk/ts
+#EXTINF:-1 xui-id="801" tvg-id="" tvg-name="COLOMBIA HD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2mFsPtbAFBl5cTjUoyG4v4/ts
+#EXTINF:-1 xui-id="802" tvg-id="" tvg-name="COLOMBIA HD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA HD",COLOMBIA HD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzoYUneh2H77h7yI5_iq17I/ts
+#EXTINF:-1 xui-id="803" tvg-id="COLOM" tvg-name="COLOMBIA SD | CARACOL" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="COLOMBIA SD",COLOMBIA SD | CARACOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxecwP1WTpzrytMqu6fqfHc/ts
+#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="CULTURALES SD | ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="CULTURALES SD",CULTURALES SD | ANIMAL PLANET
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X82LSwDKtbkyLRpruFYg0so/ts
+#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="CULTURALES SD | CNN ESPAÑOL" tvg-logo="https://static.epg.best/mx/CableNewsNetwork.mx.png" group-title="CULTURALES SD",CULTURALES SD | CNN ESPAÑOL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyKgekOz8eXlKi-ZWtFluUI/ts
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="CULTURALES SD | CNN INTERNATIONAL" tvg-logo="https://static.epg.best/us/CNNEspanol.us.png" group-title="CULTURALES SD",CULTURALES SD | CNN INTERNATIONAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xw5mWgMlkci11_SCP5qxkWI/ts
+#EXTINF:-1 xui-id="203" tvg-id="" tvg-name="CULTURALES SD | COMEDY CENTRAL" tvg-logo="https://static.epg.bestCOMEDY" group-title="CULTURALES SD",CULTURALES SD | COMEDY CENTRAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6usNoYleBYwKkueY5VqY9E/ts
+#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxWI146f_ZWdNXA6_oCw3Ec/ts
+#EXTINF:-1 xui-id="205" tvg-id="" tvg-name="CULTURALES SD | HGTV" tvg-logo="https://static.epg.best/br/DiscoveryCivilization.br.png" group-title="CULTURALES SD",CULTURALES SD | HGTV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3W_YonIW_PTt8_JdQb9qjA/ts
+#EXTINF:-1 xui-id="206" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY HOME AND HEALTH" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY HOME AND HEALTH
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1qaGM47TwxMptXjAVGXlDs/ts
+#EXTINF:-1 xui-id="207" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY ID" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY ID
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_mONelipqE-jTnJI5eCDK4/ts
+#EXTINF:-1 xui-id="208" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY SCIENCE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzJkTg5_UgCu6_xCkDNJF5g/ts
+#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY THEATER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4VlFhDsj6sp68XN-gkifWU/ts
+#EXTINF:-1 xui-id="210" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY TURBO" tvg-logo="https://static.epg.best/gb/DiscoveryTurbo.uk.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY TURBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6EzrhRbA1G4fCthNI53uVc/ts
+#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY WORLD" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY WORLD
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7Byactcwlz13tnwICXM_94/ts
+#EXTINF:-1 xui-id="212" tvg-id="" tvg-name="CULTURALES SD | DISTRITO COMEDIA MEXICO" tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISTRITO COMEDIA MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5hrawXOrX7pTkw6yu4DgbA/ts
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="CULTURALES SD | E! ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="CULTURALES SD",CULTURALES SD | E! ENTERTAINMENT
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X72iiRHzc2Euir7Wi7BBh8A/ts
+#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="CULTURALES SD | EL GOURMET" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES SD",CULTURALES SD | EL GOURMET
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8lsZM9hREbUxh5QFaeH_A0/ts
+#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="CULTURALES SD | EUROPA EUROPA" tvg-logo="https://static.epg.best/mx/EuropaEuropa.mx.png" group-title="CULTURALES SD",CULTURALES SD | EUROPA EUROPA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzQTGN9mr3x7xpspWOrrMks/ts
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="CULTURALES SD | NUE9VE" tvg-logo="https://www.televisa.com/el-nueve/assets/3d9cc3626b431078/img/placeholder_default_share.jpg" group-title="CULTURALES SD",CULTURALES SD | NUE9VE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7vMAHYad18fBymz_0Eh7xg/ts
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="CULTURALES SD | GLITZ" tvg-logo="https://static.epg.best/pa/GlitzLatinAmerica.pa.png" group-title="CULTURALES SD",CULTURALES SD | GLITZ
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0bm3m5VZC8pUArw2Ztmx5I/ts
+#EXTINF:-1 xui-id="218" tvg-id="" tvg-name="CULTURALES SD | HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURALES SD",CULTURALES SD | HISTORY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyRJVYrv6Qs6kwXU3IGJQgg/ts
+#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="CULTURALES SD | H2" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="CULTURALES SD",CULTURALES SD | H2
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxHl9eEX57GuTKmK8wmHMCo/ts
+#EXTINF:-1 xui-id="220" tvg-id="" tvg-name="CULTURALES SD | HOLA TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="CULTURALES SD",CULTURALES SD | HOLA TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2ULzvdy324O6CQiOuu4H7M/ts
+#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="CULTURALES SD | LIFETIME" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CULTURALES SD",CULTURALES SD | LIFETIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X728jA35uwf74JufTn7WhZA/ts
+#EXTINF:-1 xui-id="222" tvg-id="" tvg-name="CULTURALES SD | MAS CHIC" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CULTURALES SD",CULTURALES SD | MAS CHIC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5UMgtHTly4aHBEU3oc6-uc/ts
+#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="CULTURALES SD | NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES SD",CULTURALES SD | NATGEO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4Acb7axWNQ5jzO7TuOJ12c/ts
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="CULTURALES SD | LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURALES SD",CULTURALES SD | LOVE NATURE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X35EvVeBCAq5Pm-B5h4bFtg/ts
+#EXTINF:-1 xui-id="225" tvg-id="" tvg-name="CULTURALES SD | PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="CULTURALES SD",CULTURALES SD | PASIONES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0bVFHDUaniig3Ni-VDkHAA/ts
+#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="CULTURALES SD | SUNDANCE  TV" tvg-logo="https://static.epg.best/mx/SundanceTV.mx.png" group-title="CULTURALES SD",CULTURALES SD | SUNDANCE  TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-CXyrvg8XSFZUkLjfZ_8K8/ts
+#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="CULTURALES SD | TELEMUNDO INTERNATIONAL" tvg-logo="https://static.epg.best/pa/TelemundoLatinAmerica.pa.png" group-title="CULTURALES SD",CULTURALES SD | TELEMUNDO INTERNATIONAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8zcm0p8CsD5NpsvRYIcYvM/ts
+#EXTINF:-1 xui-id="228" tvg-id="" tvg-name="CULTURALES SD | TLC" tvg-logo="https://static.epg.best/ar/TLC.ar.png" group-title="CULTURALES SD",CULTURALES SD | TLC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz6ykMw3NtncjoZPK10W2kQ/ts
+#EXTINF:-1 xui-id="229" tvg-id="" tvg-name="CULTURALES SD | TLNOVELAS" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="CULTURALES SD",CULTURALES SD | TLNOVELAS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8cMIOpY57048kPRS8aZb7Y/ts
+#EXTINF:-1 xui-id="230" tvg-id="" tvg-name="CULTURALES SD | TRU TV" tvg-logo="https://static.epg.best/mx/truTV.mx.png" group-title="CULTURALES SD",CULTURALES SD | TRU TV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3ht3AO2KnZMtQ6C2s7p9Wc/ts
+#EXTINF:-1 xui-id="231" tvg-id="" tvg-name="CULTURALES SD | CANAL U UNICABLE" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="CULTURALES SD",CULTURALES SD | CANAL U UNICABLE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwB83XidCFirLn0sg4y031M/ts
+#EXTINF:-1 xui-id="232" tvg-id="" tvg-name="CULTURALES SD | LAS ESTRELLAS" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="CULTURALES SD",CULTURALES SD | LAS ESTRELLAS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9XDT2exRd554fbDdE7br7A/ts
+#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="CULTURALES SD | UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="CULTURALES SD",CULTURALES SD | UNIVISION
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6tVjYe9UAIybLC6z_jLTSo/ts
+#EXTINF:-1 xui-id="234" tvg-id="" tvg-name="CULTURALES SD | GLITZ MEXICO" tvg-logo="https://static.epg.best/mx/Glitz.mx.png" group-title="CULTURALES SD",CULTURALES SD | GLITZ MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_ywU59qoMtFPZCqbDQA3lA/ts
+#EXTINF:-1 xui-id="235" tvg-id="" tvg-name="CULTURALES SD | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES SD",CULTURALES SD | DISCOVERY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3QNKiqemvy0KROLi__xX0A/ts
+#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="CULTURALES SD | PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="CULTURALES SD",CULTURALES SD | PASIONES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-2YYsaNJC6TsZ-xEirXHM4/ts
+#EXTINF:-1 xui-id="1833" tvg-id="" tvg-name="CULTURALES HD | ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | ANIMAL PLANET
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3V6A7YXScwgvvyC4UYT0LU/ts
+#EXTINF:-1 xui-id="1834" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | DISCOVERY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xy5TVrbIEueqEe0revdVE88/ts
+#EXTINF:-1 xui-id="1835" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY HOME AND HEALTH" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | DISCOVERY HOME AND HEALTH
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxUEv7OaQnAgjtq2r0zF4J8/ts
+#EXTINF:-1 xui-id="1836" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY ID" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | DISCOVERY ID
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5J_KjkWZdM7uKKSUlvmEiU/ts
+#EXTINF:-1 xui-id="1837" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | DISCOVERY SCIENCE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8XCmzgp14XbL5HHbOMeulU/ts
+#EXTINF:-1 xui-id="1838" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | DISCOVERY THEATER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyUCWVw2_C0A5tvq1QpLSN8/ts
+#EXTINF:-1 xui-id="1839" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | DISCOVERY TURBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X28ra64qnDwooTh-Bf6ajNM/ts
+#EXTINF:-1 xui-id="1840" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY WORLD" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY WORLD
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3JkQR0qeCBhCjxJXnO8eA0/ts
+#EXTINF:-1 xui-id="1841" tvg-id="" tvg-name="CULTURALES HD | HISTORY CHANNEL" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="CULTURALES HD",CULTURALES HD | HISTORY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwmiEZsvTFLdiYB_G68UlC0/ts
+#EXTINF:-1 xui-id="1842" tvg-id="" tvg-name="CULTURALES HD | NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES HD",CULTURALES HD | NATGEO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6nCWXpJHBdk6nI4QthHJ5c/ts
+#EXTINF:-1 xui-id="1843" tvg-id="" tvg-name="CULTURALES HD | LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURALES HD",CULTURALES HD | LOVE NATURE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4v2nrNG1XQSHA0dlwtQQvk/ts
+#EXTINF:-1 xui-id="1844" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY ID" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY ID
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3TNcxyefFAHWnL9zxibhYc/ts
+#EXTINF:-1 xui-id="1845" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY TURBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2RfeShs6fI4dIkMt8GjfVg/ts
+#EXTINF:-1 xui-id="1846" tvg-id="" tvg-name="CULTURALES HD | H2" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="CULTURALES HD",CULTURALES HD | H2
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3_mbgTIlUxW1OcSx_Zy-kc/ts
+#EXTINF:-1 xui-id="1847" tvg-id="" tvg-name="CULTURALES HD | HISTORY CHANNEL" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="CULTURALES HD",CULTURALES HD | HISTORY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9N3mhvw2A9RsBwpfrv-fAk/ts
+#EXTINF:-1 xui-id="1848" tvg-id="" tvg-name="CULTURALES HD | NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES HD",CULTURALES HD | NATGEO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1CtuqJQrJ9GtebAPShTKok/ts
+#EXTINF:-1 xui-id="1849" tvg-id="" tvg-name="CULTURALES HD | TLNOVELAS UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionTelenovelas.us.png" group-title="CULTURALES HD",CULTURALES HD | TLNOVELAS UNIVISION
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3lnzwZ5Nwg2NdIkTGDNbvE/ts
+#EXTINF:-1 xui-id="1850" tvg-id="" tvg-name="CULTURALES HD | TELEMUNDO INTERNACIONAL" tvg-logo="https://static.epg.best/pa/TelemundoLatinAmerica.pa.png" group-title="CULTURALES HD",CULTURALES HD | TELEMUNDO INTERNACIONAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0vRm7C1mNmR9fSYiHYf1T8/ts
+#EXTINF:-1 xui-id="1851" tvg-id="" tvg-name="CULTURALES HD | COMEDY CENTRAL" tvg-logo="https://static.epg.best/ar/ComedyCentral.ar.png" group-title="CULTURALES HD",CULTURALES HD | COMEDY CENTRAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8h22PP-bGibb5qUXbR5VkM/ts
+#EXTINF:-1 xui-id="1852" tvg-id="" tvg-name="CULTURALES HD | EL GOURMET" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES HD",CULTURALES HD | EL GOURMET
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_R7z_roBabrevulN6dVgeY/ts
+#EXTINF:-1 xui-id="1853" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY SCIENCE" tvg-logo="http://Fastvplayer.com:8080/images/qw9Sd5JnDX2uSQDrGmMcumM1MveSxzSZ8HsQSUjrNwxK1l2zswQFq5lEyBce5F5LOa2HZpA0ZUec4WhB5drFsA.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY SCIENCE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3ipVtVYHyyQZ6XadpLmtb8/ts
+#EXTINF:-1 xui-id="1854" tvg-id="" tvg-name="CULTURALES HD | LEVEL UP" tvg-logo="https://cl.buscafs.com/www.levelup.com/public/uploads/images/602528/602528.png" group-title="CULTURALES HD",CULTURALES HD | LEVEL UP
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0MyKw-d0oECVfDz3Isowv0/ts
+#EXTINF:-1 xui-id="2005" tvg-id="" tvg-name="CULTURALES HD | TRU TV MEXICO" tvg-logo="https://static.epg.best/mx/truTV.mx.png" group-title="CULTURALES HD",CULTURALES HD | TRU TV MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4PNEm2te-aX4Jox8xR022A/ts
+#EXTINF:-1 xui-id="2006" tvg-id="" tvg-name="CULTURALES HD | COMEDY CENTRAL MEXICO" tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" group-title="CULTURALES HD",CULTURALES HD | COMEDY CENTRAL MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xy1-vLOMAU8mTvSxxo0muy4/ts
+#EXTINF:-1 xui-id="2007" tvg-id="" tvg-name="CULTURALES HD | ANIMAL PLANET MEXICO" tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png" group-title="CULTURALES HD",CULTURALES HD | ANIMAL PLANET MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9ucWMn2FLs9w6NAim34IQI/ts
+#EXTINF:-1 xui-id="2008" tvg-id="" tvg-name="CULTURALES HD | ANTENA 3 MEXICO" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="CULTURALES HD",CULTURALES HD | ANTENA 3 MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7n4CIKystoJSz0VMiFCGZk/ts
+#EXTINF:-1 xui-id="2009" tvg-id="" tvg-name="CULTURALES HD | TLC MEXICO" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURALES HD",CULTURALES HD | TLC MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2JHlZF06HNbZk1nNy3TFMg/ts
+#EXTINF:-1 xui-id="2010" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY THEATER MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY THEATER MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9OHO4SWyLBAsznWd-kURRY/ts
+#EXTINF:-1 xui-id="2011" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY CHANNEL MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwDvV9T2qcRLy8pkRuO2xRs/ts
+#EXTINF:-1 xui-id="2012" tvg-id="" tvg-name="CULTURALES HD | E! ENTERTAINMENT MEXICO" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="CULTURALES HD",CULTURALES HD | E! ENTERTAINMENT MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-V4Heh1jE93fWwkqa4Ia-o/ts
+#EXTINF:-1 xui-id="2013" tvg-id="" tvg-name="CULTURALES HD | EL GOURMET MEXICO" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES HD",CULTURALES HD | EL GOURMET MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X71Luh3IhHSJFIBhxe6u6rg/ts
+#EXTINF:-1 xui-id="2014" tvg-id="" tvg-name="CULTURALES HD | FOOD NETWORK MEXICO" tvg-logo="https://static.epg.best/pa/FoodNetwork.pa.png" group-title="CULTURALES HD",CULTURALES HD | FOOD NETWORK MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_vFdDAKhEmsnJwg-RFuDYQ/ts
+#EXTINF:-1 xui-id="2015" tvg-id="" tvg-name="CULTURALES HD | LIFETIME MEXICO" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CULTURALES HD",CULTURALES HD | LIFETIME MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0bAr6nBX9IEZ4bo6GG2ur8/ts
+#EXTINF:-1 xui-id="2016" tvg-id="" tvg-name="CULTURALES HD | MAS CHIC MEXICO" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CULTURALES HD",CULTURALES HD | MAS CHIC MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8tb1NyE-AQgW4Ia5mKbRWw/ts
+#EXTINF:-1 xui-id="2017" tvg-id="" tvg-name="CULTURALES HD | HOLA TV MEXICO" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="CULTURALES HD",CULTURALES HD | HOLA TV MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0sF_vIqBOaMMDR6OQb-p3w/ts
+#EXTINF:-1 xui-id="2018" tvg-id="" tvg-name="CULTURALES HD | HISTORY MEXICO" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="CULTURALES HD",CULTURALES HD | HISTORY MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwSIVmeX6ZSTo_rnuQyi0mg/ts
+#EXTINF:-1 xui-id="2019" tvg-id="" tvg-name="CULTURALES HD | H2 MEXICO" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="CULTURALES HD",CULTURALES HD | H2 MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9nl0Q1ORMoSqgO6d9ZNAYQ/ts
+#EXTINF:-1 xui-id="2020" tvg-id="" tvg-name="CULTURALES HD | DISCOVERY ID MEXICO" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES HD",CULTURALES HD | DISCOVERY ID MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5NMIC1nNAN2ulLDIdfBEmI/ts
+#EXTINF:-1 xui-id="2021" tvg-id="" tvg-name="CULTURALES HD | NATGEO MEXICO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES HD",CULTURALES HD | NATGEO MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8yY3bS_PcITsviGXwVXsvQ/ts
+#EXTINF:-1 xui-id="2022" tvg-id="" tvg-name="CULTURALES HD | TLC MEXICO" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURALES HD",CULTURALES HD | TLC MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwsOvIgVzS_Rn0orunryisA/ts
+#EXTINF:-1 xui-id="2023" tvg-id="" tvg-name="CULTURALES FHD | TLC MEXICO" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | TLC MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X--wjin5pFRYJ32ZV5cR-qQ/ts
+#EXTINF:-1 xui-id="2024" tvg-id="" tvg-name="CULTURALES FHD | TRU TV MEXICO" tvg-logo="https://static.epg.best/mx/truTV.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | TRU TV MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyC-VCslNtLAHWOPG3MTn3E/ts
+#EXTINF:-1 xui-id="2025" tvg-id="" tvg-name="CULTURALES FHD | COMEDY CENTRAL MEXICO" tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | COMEDY CENTRAL MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XytTG75-qCIVj8t59z0MHvA/ts
+#EXTINF:-1 xui-id="2026" tvg-id="" tvg-name="CULTURALES FHD | ANIMAL PLANET MEXICO" tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | ANIMAL PLANET MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwTD4xKnNA2PqDJjDTdDZnk/ts
+#EXTINF:-1 xui-id="2027" tvg-id="" tvg-name="CULTURALES FHD | ANTENA 3 MEXICO" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | ANTENA 3 MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6EUqrLObojZV66hYf9mgqk/ts
+#EXTINF:-1 xui-id="2028" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY THEATER MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | DISCOVERY THEATER MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X20ezfjNA3E9PT_xTGA6Pxw/ts
+#EXTINF:-1 xui-id="2029" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY CHANNEL MEXICO" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | DISCOVERY CHANNEL MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X25TKIiC1rXjkmoTHuk1VGQ/ts
+#EXTINF:-1 xui-id="2030" tvg-id="" tvg-name="CULTURALES FHD | E! ENTERTAINMENT MEXICO" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | E! ENTERTAINMENT MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6ESi2UwofRGDtqKO08CMI8/ts
+#EXTINF:-1 xui-id="2031" tvg-id="" tvg-name="CULTURALES FHD | EL GOURMET MEXICO" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | EL GOURMET MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5xL0cU95eixeWC3KMPfa1A/ts
+#EXTINF:-1 xui-id="2032" tvg-id="" tvg-name="CULTURALES FHD | FOOD NETWORK MEXICO" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | FOOD NETWORK MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2r8N3-eojAD2GL3KDuwlvo/ts
+#EXTINF:-1 xui-id="2033" tvg-id="" tvg-name="CULTURALES FHD | LIFETIME MEXICO" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | LIFETIME MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3Y_qtAptb83qApUjXraJYk/ts
+#EXTINF:-1 xui-id="2034" tvg-id="" tvg-name="CULTURALES FHD | MAS CHIC MEXICO" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | MAS CHIC MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxXxosfAlnaZ5eBWwJc8ze0/ts
+#EXTINF:-1 xui-id="2035" tvg-id="" tvg-name="CULTURALES FHD | HOLA TV MEXICO" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | HOLA TV MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6hYipyF3tp1LEFodIBEAq0/ts
+#EXTINF:-1 xui-id="2036" tvg-id="" tvg-name="CULTURALES FHD | HISTORY MEXICO" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | HISTORY MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X09ihJq8q4asNb9jO_YcgzI/ts
+#EXTINF:-1 xui-id="2037" tvg-id="" tvg-name="CULTURALES FHD | H2 MEXICO" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | H2 MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xx_E7_lHEwok5PJtySIwkgE/ts
+#EXTINF:-1 xui-id="2038" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY ID MEXICO" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | DISCOVERY ID MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2rlj60z8ryd_ecqrO2hstM/ts
+#EXTINF:-1 xui-id="2039" tvg-id="" tvg-name="CULTURALES FHD | NATGEO MEXICO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES FHD (MEXICO)",CULTURALES FHD | NATGEO MEXICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XztqZP52XOyD3QS-YsYSxRg/ts
+#EXTINF:-1 xui-id="237" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURALES FHD",CULTURALES FHD | DISCOVERY THEATER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-mPfDnRGkkG4OkfxcKkWQQ/ts
+#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY WORLD" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="CULTURALES FHD",CULTURALES FHD | DISCOVERY WORLD
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9s1L9_eXxZEPle1a3-Vn5I/ts
+#EXTINF:-1 xui-id="239" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY HOME AND HEALTH" tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png" group-title="CULTURALES FHD",CULTURALES FHD | DISCOVERY HOME AND HEALTH
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3Q7pC3Rd7hlEpbmGQzWYuI/ts
+#EXTINF:-1 xui-id="240" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURALES FHD",CULTURALES FHD | DISCOVERY ID
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xx7Qr12w0-IdVgoZ8Ozfzww/ts
+#EXTINF:-1 xui-id="241" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES FHD",CULTURALES FHD | DISCOVERY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4BKGYP5Sx9sfcmGW0mcChU/ts
+#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="CULTURALES FHD | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="CULTURALES FHD",CULTURALES FHD | DISCOVERY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwDE1qkHQo40pJx0pr4osj8/ts
+#EXTINF:-1 xui-id="243" tvg-id="" tvg-name="CULTURALES FHD | DW AMERICA" tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png" group-title="CULTURALES FHD",CULTURALES FHD | DW AMERICA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9MFE6tvAQ2PqT8TQ0TFYlo/ts
+#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="CULTURALES HD | LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURALES HD ( MEXICO)",CULTURALES HD | LOVE NATURE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1PjXjS6maur_s5ZHH2LSag/ts
+#EXTINF:-1 xui-id="245" tvg-id="" tvg-name="CULTURALES FHD | NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="CULTURALES FHD",CULTURALES FHD | NATGEO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9rD_esmOJBH7NQW2l2ZaSg/ts
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="CULTURALES FHD | ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="CULTURALES FHD",CULTURALES FHD | ANIMAL PLANET
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_gpBcwrbWmVQZoEHsa9LZk/ts
+#EXTINF:-1 xui-id="247" tvg-id="" tvg-name="CULTURALES FHD | HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURALES FHD",CULTURALES FHD | HISTORY CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5Q1QymPCJd_h8LOkNYBnCw/ts
+#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="CULTURALES FHD | GOURMET" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="CULTURALES FHD",CULTURALES FHD | GOURMET
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzS2_lq-nKbhRfyDVHwYKM4/ts
+#EXTINF:-1 xui-id="249" tvg-id="" tvg-name="CULTURALES FHD | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="CULTURALES FHD",CULTURALES FHD | HGTV
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1epn0g6lgHiuIX25YJqpz0/ts
+#EXTINF:-1 xui-id="250" tvg-id="" tvg-name="CULTURALES FHD | H2" tvg-logo="https://static.epg.best/br/History2.br.png" group-title="CULTURALES FHD",CULTURALES FHD | H2
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7lKW0-wBJyscR4deTOFo98/ts
+#EXTINF:-1 xui-id="251" tvg-id="" tvg-name="CULTURALES FHD | AZTECA AMERICA" tvg-logo="https://static.epg.best/us/Azteca.us.png" group-title="CULTURALES FHD",CULTURALES FHD | AZTECA AMERICA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X54H6wGYu-Ujmk9P_06ATvE/ts
+#EXTINF:-1 xui-id="252" tvg-id="" tvg-name="CULTURALES FHD | LEVEL UP" tvg-logo="https://cl.buscafs.com/www.levelup.com/public/uploads/images/602528/602528.png" group-title="CULTURALES FHD",CULTURALES FHD | LEVEL UP
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_1VY-B0jyL1SVgwSTqC-cA/ts
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="CINE SD | A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="CINE SD",CINE SD | A&E
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X04ARWwKH1sRJxwwXF9k9zo/ts
+#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="CINE SD | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="CINE SD",CINE SD | AMC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7YFrvQz6AWXheUZwsw4ixU/ts
+#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="CINE SD | AXN" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="CINE SD",CINE SD | AXN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzV3SWBwahqYGf0exFPLF9Q/ts
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="CINE SD | CINECANAL" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="CINE SD",CINE SD | CINECANAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6IIfwkIKr4LwbvVEpcfpEo/ts
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="CINE SD | CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="CINE SD",CINE SD | CINEMAX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9GjZ2GkVL41uLW7FIRfoDs/ts
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="CINE SD | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE SD",CINE SD | STAR CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_LqaQNPKCulLPnDENg0tQ0/ts
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL REALITY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5Zw2kLPKMAP5zVT_7whOf4/ts
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CINEMA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X03FuwV7sUIODz-Z0EXwm5A/ts
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CRIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7zBqTGPUFZCriNE1XVvb7Y/ts
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL COMEDY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4BFm5RPPZPabvohCFrdcxA/ts
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL PREMIERE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XydR9zbRK-uBrr8yYHCOEZg/ts
+#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="CINE SD | FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="CINE SD",CINE SD | FX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzwJPa0Jb6OF-I_g3CD-tbE/ts
+#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="CINE SD | GOLDEN" tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="CINE SD",CINE SD | GOLDEN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2WX_sy1fm6UGPrpcNYjXkw/ts
+#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="CINE SD | GOLDEN EDGE" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="CINE SD",CINE SD | GOLDEN EDGE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xx0ppOvVt6h9iMnHyNuSitc/ts
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="CINE SD | GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="CINE SD",CINE SD | GOLDEN PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X69linEjXs4u5Vaw8T_B_z4/ts
+#EXTINF:-1 xui-id="49" tvg-id="" tvg-name="CINE SD | HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE SD",CINE SD | HBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5BwHak4Oczmhn58F-hKfDQ/ts
+#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="CINE SD | HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE SD",CINE SD | HBO 2
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xxtm8jKUAPiX8IzAmzLZ_DI/ts
+#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="CINE SD | HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE SD",CINE SD | HBO FAMILY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyIYNpQId57vBshVmNGRh6Q/ts
+#EXTINF:-1 xui-id="52" tvg-id="" tvg-name="CINE SD | HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE SD",CINE SD | HBO PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xwvr_zlFRnlPeEuzQ7Rom-4/ts
+#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="CINE SD | HBO SIGNATURE" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="CINE SD",CINE SD | HBO SIGNATURE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2JXKTNybUd6YKU4muLq3Kg/ts
+#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="CINE SD | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE SD",CINE SD | HBO POP
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_myrRq_UgXHeX7jZoa2mLE/ts
+#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="CINE SD | PARAMOUNT CHANNEL" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE SD",CINE SD | PARAMOUNT CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2TvbMvS2_x4Unavv4vkpDw/ts
+#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="CINE SD | SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE SD",CINE SD | SONY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5FnxIOeBKWxb3XJhE1ORWo/ts
+#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="CINE SD | SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE SD",CINE SD | SPACE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9fisIPROPgJiKPmSmZirhY/ts
+#EXTINF:-1 xui-id="58" tvg-id="" tvg-name="CINE SD | STUDIO UNIVERSAL" tvg-logo="https://static.epg.best/pa/StudioUniversalLatinAmerica.pa.png" group-title="CINE SD",CINE SD | STUDIO UNIVERSAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X08pfL5C2HNzvVLFqoBi3dA/ts
+#EXTINF:-1 xui-id="59" tvg-id="" tvg-name="CINE SD | SYFY" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="CINE SD",CINE SD | SYFY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9yypToTstott6mpc05siAo/ts
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="CINE SD | TBS" tvg-logo="https://static.epg.best/ar/TBS.ar.png" group-title="CINE SD",CINE SD | TBS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwCyTnWxqFy8cgcyJ_tpHzE/ts
+#EXTINF:-1 xui-id="61" tvg-id="" tvg-name="CINE SD | TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="CINE SD",CINE SD | TCM
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3FGQjDiAUgHdinjJMswAvM/ts
+#EXTINF:-1 xui-id="62" tvg-id="" tvg-name="CINE SD | TNT" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="CINE SD",CINE SD | TNT
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1pGCKwWrAjfFhxcHLMXDkU/ts
+#EXTINF:-1 xui-id="63" tvg-id="" tvg-name="CINE SD | TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="CINE SD",CINE SD | TNT SERIES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7sNGyUZQ7EMa-RFMlfHKU8/ts
+#EXTINF:-1 xui-id="64" tvg-id="" tvg-name="CINE SD | UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="CINE SD",CINE SD | UNIVERSAL CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8BsorXpFYNG5Q1U6myKFF8/ts
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="CINE SD | WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="CINE SD",CINE SD | WARNER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz5OtfQrhPC07n3zaIXElAc/ts
+#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="CINE SD | DE PELICULA PLUS" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="CINE SD",CINE SD | DE PELICULA PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5uCi89hAvXBKDR8iQ3KAJI/ts
+#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="CINE SD | MOVISTAR SERIE" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="CINE SD",CINE SD | MOVISTAR SERIE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxX6SZLqekpmzt9wOWrcDdI/ts
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="CINE SD | MOVISTAR ESTRENO" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="CINE SD",CINE SD | MOVISTAR ESTRENO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X58eNqrw9iX2wIl2EUzv79U/ts
+#EXTINF:-1 xui-id="69" tvg-id="" tvg-name="CINE HD | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="CINE HD",CINE HD | SHOWTIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xxk0gFW_d7DNGyNl05bjv3Y/ts
+#EXTINF:-1 xui-id="70" tvg-id="" tvg-name="CINE HD | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="CINE HD",CINE HD | SHOWTIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X72niOOMORxCr83A_7MIUy0/ts
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="CINE HD | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="CINE HD",CINE HD | SHOWTIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8Me7nP2FNAlPP3YmItgebc/ts
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="CINE HD | SHOWTIME EXTREME" tvg-logo="https://static.epg.best/us/ShowtimeExtreme.us.png" group-title="CINE HD",CINE HD | SHOWTIME EXTREME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1oT1hxT0vMhD5cqMHaTEsQ/ts
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="CINE HD | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="CINE HD",CINE HD | SHOWTIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxJbYXygd-jDCHNm6JH5FM8/ts
+#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="CINE HD | STARZ" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="CINE HD",CINE HD | STARZ
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz8idsheDr5n2ZqxEEAxHkk/ts
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="CINE HD | STARZ ENCORE" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="CINE HD",CINE HD | STARZ ENCORE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7o7P-FfUtVpyGMKgeqLuWI/ts
+#EXTINF:-1 xui-id="76" tvg-id="" tvg-name="CINE HD | STARZ EDGE" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="CINE HD",CINE HD | STARZ EDGE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X742BC8_VcMRjv_OiI481pI/ts
+#EXTINF:-1 xui-id="77" tvg-id="" tvg-name="CINE HD | STARZ COMEDY" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="CINE HD",CINE HD | STARZ COMEDY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8yYLCyI10Fz8kheio3x1Zw/ts
+#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="CINE HD | STARZ ENCORE SUSPENSE" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="CINE HD",CINE HD | STARZ ENCORE SUSPENSE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1IvFNPb8PChPv5fFrMBMdA/ts
+#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="CINE SD | CINEMA DINAMITA" tvg-logo="https://payload.carg" group-title="CINE SD",CINE SD | CINEMA DINAMITA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3lsPYnmrsEdQSJIXZr7V3Q/ts
+#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="CINE SD | CINELATINO" tvg-logo="https://static.epg.best/mx/CineLatino.mx.png" group-title="CINE SD",CINE SD | CINELATINO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8w5G-2CQK7gMSft33z-fhY/ts
+#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="CINE SD | GOLDEN PREMIERE" tvg-logo="https://static.epg.best/co/GoldenPremier.co.png" group-title="CINE SD",CINE SD | GOLDEN PREMIERE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5RAuEgKw2HiphiJhkoaU8U/ts
+#EXTINF:-1 xui-id="82" tvg-id="" tvg-name="CINE SD | HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE SD",CINE SD | HBO MUNDI
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xw7SCdfP3_DarUMkfyoV_MY/ts
+#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="CINE SD | HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE SD",CINE SD | HBO PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9h-ixHIkjrTAc2byaJPYp4/ts
+#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="CINE SD | CLARO CINEMA" tvg-logo="https://static.epg.best/co/ClaroCinema.co.png" group-title="CINE SD",CINE SD | CLARO CINEMA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xy_ZCYB1E0HI_6uYSw6_v1c/ts
+#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="CINE SD | DHE" tvg-logo="https://static.epg.best/co/CanalDHE.co.png" group-title="CINE SD",CINE SD | DHE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6uzTrE2ALiBtfmqIItweOU/ts
+#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="CINE SD | DE PELICULAS CLASICO" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="CINE SD",CINE SD | DE PELICULAS CLASICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz57-J7xwlP33rbC699acBg/ts
+#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="CINE SD | FILM & ARTS" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="CINE SD",CINE SD | FILM & ARTS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8V-Nlsq7kxn2OpBQIPVU4E/ts
+#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="CINE SD | MULTIPREMIER" tvg-logo="https://static.epg.best/mx/Multipremier.mx.png" group-title="CINE SD",CINE SD | MULTIPREMIER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XzWctYS9eyt00iScTRxH4CU/ts
+#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="CINE SD | UNIVERSAL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="CINE SD",CINE SD | UNIVERSAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwAW38Uv97G9WmtaxbC5hYA/ts
+#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="CINE SD | SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE SD",CINE SD | SPACE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X671wfCtWqvKWTSm3nW-zhM/ts
+#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="CINE SD | SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE SD",CINE SD | SONY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7IJev70ycs8b2kxb-hazIU/ts
+#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="CINE SD | HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE SD",CINE SD | HBO FAMILY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5nhcmUdiP9Qy-T4Ttlpi5I/ts
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="CINE SD | HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE SD",CINE SD | HBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3nIW9_YeEYztUO2DoTPjgg/ts
+#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="CINE SD | FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="CINE SD",CINE SD | FX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X46SYeZgNvrvLt2vJ7lJt-U/ts
+#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="CINE SD | CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="CINE SD",CINE SD | CINEMAX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2fANGNJ7lZIQVFaDogsiUw/ts
+#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="CINE SD | AXN" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="CINE SD",CINE SD | AXN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_Il3AgygV8gDI8iHoerRC8/ts
+#EXTINF:-1 xui-id="97" tvg-id="" tvg-name="CINE SD | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="CINE SD",CINE SD | AMC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2FSzAhBOgUKogSBheU1Qzo/ts
+#EXTINF:-1 xui-id="1731" tvg-id="" tvg-name="CINE HD  | A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="CINE HD",CINE HD  | A&E
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0jZ5YRncL1jhJnuwIUHelI/ts
+#EXTINF:-1 xui-id="1732" tvg-id="" tvg-name="CINE HD  | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="CINE HD",CINE HD  | AMC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyT7OEgwGk1aYGB9g6hhmMU/ts
+#EXTINF:-1 xui-id="1733" tvg-id="" tvg-name="CINE HD  | AXN" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="CINE HD",CINE HD  | AXN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7oMVcbTNbCwukIR9SOfzIo/ts
+#EXTINF:-1 xui-id="1734" tvg-id="" tvg-name="CINE HD  | CINECANAL" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="CINE HD",CINE HD  | CINECANAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4P6PpRi7kKdMPQLSBx_eMw/ts
+#EXTINF:-1 xui-id="1735" tvg-id="" tvg-name="CINE HD  | CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="CINE HD",CINE HD  | CINEMAX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X41Xbd1ZehLo-zqrwwa1po0/ts
+#EXTINF:-1 xui-id="1736" tvg-id="" tvg-name="CINE HD | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE HD",CINE HD | STAR CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxEbN0hLYjhz_yc3vPH6Z_g/ts
+#EXTINF:-1 xui-id="1737" tvg-id="" tvg-name="CINE HD  | STAR CHANNEL" tvg-logo="http://Fastvplayer.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7lRkZf3qkijDn0GCC9uJMuF31gi85xqAkT7dnofGuuyNeXg44wt-6AGTXh4E9nxslJ_Q6nd-ekkzgHC5js_ItA.png" group-title="CINE HD",CINE HD  | STAR CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X67mln_VmTpk6pYPWd1C2f4/ts
+#EXTINF:-1 xui-id="1738" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL COMEDY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-ELI7gLl12nlipRHO5J2g8/ts
+#EXTINF:-1 xui-id="1739" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL PREMIERE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1qVS1kfYSzj7uHXhRzMB1s/ts
+#EXTINF:-1 xui-id="1740" tvg-id="" tvg-name="CINE HD  | HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE HD",CINE HD  | HBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-9ErzxiX10FF_iFdCquShk/ts
+#EXTINF:-1 xui-id="1741" tvg-id="" tvg-name="CINE HD  | HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE HD",CINE HD  | HBO PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwEwQdtlfjVnTfkN8ofJz2g/ts
+#EXTINF:-1 xui-id="1742" tvg-id="" tvg-name="CINE HD  | HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE HD",CINE HD  | HBO 2
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xy0VxQLWvxTx1B2oGkZFyoY/ts
+#EXTINF:-1 xui-id="1743" tvg-id="" tvg-name="CINE HD  | HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE HD",CINE HD  | HBO FAMILY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9rHM9bM1lyBTrnTOxujmIY/ts
+#EXTINF:-1 xui-id="1744" tvg-id="" tvg-name="CINE HD  | HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE HD",CINE HD  | HBO PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_AWzdyAgmDZGE5UpCplwtQ/ts
+#EXTINF:-1 xui-id="1745" tvg-id="" tvg-name="CINE HD  | HBO SIGNATURE" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="CINE HD",CINE HD  | HBO SIGNATURE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9LWTBp2DoRNBZSmg1SvXVo/ts
+#EXTINF:-1 xui-id="1746" tvg-id="" tvg-name="CINE HD  | HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE HD",CINE HD  | HBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxgUELo8PbgvomR1VezzCRg/ts
+#EXTINF:-1 xui-id="1747" tvg-id="" tvg-name="CINE HD  | PARAMOUNT" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE HD",CINE HD  | PARAMOUNT
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X85jlpZHA-0OC8wmnfUM8qg/ts
+#EXTINF:-1 xui-id="1748" tvg-id="" tvg-name="CINE HD  | SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE HD",CINE HD  | SONY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-j-XdrfnddOkDf8tjMGOhs/ts
+#EXTINF:-1 xui-id="1749" tvg-id="" tvg-name="CINE HD  | SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE HD",CINE HD  | SONY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X10OaJlMqcjN2vteHXFlRb8/ts
+#EXTINF:-1 xui-id="1750" tvg-id="" tvg-name="CINE HD  | SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE HD",CINE HD  | SPACE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X4i2YsY9vnmGLqnbDa7QsMw/ts
+#EXTINF:-1 xui-id="1751" tvg-id="" tvg-name="CINE HD  | SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE HD",CINE HD  | SPACE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5lG8om7bqDyE_NJjdnKAmY/ts
+#EXTINF:-1 xui-id="1752" tvg-id="" tvg-name="CINE HD  | TNT" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="CINE HD",CINE HD  | TNT
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6hDmQHkGZGaVV7TpAtYEAo/ts
+#EXTINF:-1 xui-id="1753" tvg-id="" tvg-name="CINE HD | TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="CINE HD",CINE HD | TNT SERIES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xyp2biYNFYuCCMD8l0e_Gew/ts
+#EXTINF:-1 xui-id="1754" tvg-id="" tvg-name="CINE HD  | WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="CINE HD",CINE HD  | WARNER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-wv_DTe8V9H9Z5y2i5pNSI/ts
+#EXTINF:-1 xui-id="1755" tvg-id="" tvg-name="CINE HD | TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="CINE HD",CINE HD | TCM
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7I5ycuHxywvrNk4KCShGzQ/ts
+#EXTINF:-1 xui-id="1756" tvg-id="" tvg-name="CINE HD | SYFY" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="CINE HD",CINE HD | SYFY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7w3cAL2YEDCzTMasELc2yw/ts
+#EXTINF:-1 xui-id="1757" tvg-id="" tvg-name="CINE HD | DE PELICULAS CLASICO" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="CINE HD",CINE HD | DE PELICULAS CLASICO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X87RRHJKHIVpeCkdB7tUlAY/ts
+#EXTINF:-1 xui-id="1758" tvg-id="" tvg-name="CINE HD | CINEMA DINAMITA" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="CINE HD",CINE HD | CINEMA DINAMITA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9DQ8lKfpXyu4aQU5UZ-5e8/ts
+#EXTINF:-1 xui-id="1759" tvg-id="" tvg-name="CINE HD | UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="CINE HD",CINE HD | UNIVERSAL CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyqOwj30TCx9CbcPb10gXPU/ts
+#EXTINF:-1 xui-id="1760" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL PREMIERE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xxj_UteCX8ORvwhA6OU1XD0/ts
+#EXTINF:-1 xui-id="1761" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CRIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxsTF7pnKfdGxOvgDPG1ZgY/ts
+#EXTINF:-1 xui-id="1762" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CINEMA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X21MYN5zfltEmMKTKJC5Z2M/ts
+#EXTINF:-1 xui-id="1763" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL REALITY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-UfyOK-V0pjbS7SqJh-t8g/ts
+#EXTINF:-1 xui-id="1764" tvg-id="" tvg-name="CINE HD | HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE HD",CINE HD | HBO XTREAM
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2mVLfITaecgllN98GVOlac/ts
+#EXTINF:-1 xui-id="1765" tvg-id="" tvg-name="CINE HD | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE HD",CINE HD | HBO POP
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X394t4XLtHVrsjrzHmcQDiU/ts
+#EXTINF:-1 xui-id="1766" tvg-id="" tvg-name="CINE HD | HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE HD",CINE HD | HBO MUNDI
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X31gduqIhg78z1Hn3i7Od7Y/ts
+#EXTINF:-1 xui-id="1767" tvg-id="" tvg-name="CINE HD | GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="CINE HD",CINE HD | GOLDEN PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3-NFyYLwRxk7S1Zl5HpL4g/ts
+#EXTINF:-1 xui-id="1768" tvg-id="" tvg-name="CINE HD | GOLDEN EDGE" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="CINE HD",CINE HD | GOLDEN EDGE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X86K6o6SZtbGf83591gpJwA/ts
+#EXTINF:-1 xui-id="1769" tvg-id="" tvg-name="CINE HD | GOLDEN" tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="CINE HD",CINE HD | GOLDEN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyqZse1jAOChdQyNbQ7xGRc/ts
+#EXTINF:-1 xui-id="1770" tvg-id="" tvg-name="CINE HD | FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="CINE HD",CINE HD | FX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-zdcZ1DeTP4W9Ad0ar3y7I/ts
+#EXTINF:-1 xui-id="1771" tvg-id="" tvg-name="CINE HD | WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="CINE HD",CINE HD | WARNER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8UV9gBBaeqsWZJUIdDh19U/ts
+#EXTINF:-1 xui-id="1772" tvg-id="" tvg-name="CINE HD | TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="CINE HD",CINE HD | TNT SERIES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyfFFrzHWY9cOB2hGZ0NCZY/ts
+#EXTINF:-1 xui-id="1773" tvg-id="" tvg-name="CINE HD | SONY" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="CINE HD",CINE HD | SONY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-yXbUGfrNHAaGVk3wOlrKM/ts
+#EXTINF:-1 xui-id="1774" tvg-id="" tvg-name="CINE HD | PARAMOUNT CHANNEL" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE HD",CINE HD | PARAMOUNT CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyxVokMOTRrjrXgccoMavUA/ts
+#EXTINF:-1 xui-id="1775" tvg-id="" tvg-name="CINE HD | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE HD",CINE HD | HBO POP
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5cEdY8cs0nk-4K4cO1SU8g/ts
+#EXTINF:-1 xui-id="1776" tvg-id="" tvg-name="CINE HD | FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="CINE HD",CINE HD | FX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2yf5xMWJxwbpHuV8iX8tyk/ts
+#EXTINF:-1 xui-id="1777" tvg-id="" tvg-name="CINE HD | FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="CINE HD",CINE HD | FX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyynRxXdlB9XzsYnlGabHYg/ts
+#EXTINF:-1 xui-id="1778" tvg-id="" tvg-name="CINE HD | FILM & ARTS" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="CINE HD",CINE HD | FILM & ARTS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9As8NFAUqav3GKwt87o15U/ts
+#EXTINF:-1 xui-id="1779" tvg-id="" tvg-name="CINE HD | CINECANAL" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="CINE HD",CINE HD | CINECANAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xzc_3K2lflLPClh89GxkVNk/ts
+#EXTINF:-1 xui-id="1780" tvg-id="" tvg-name="CINE HD MEXICO | A3 SERIES" tvg-logo="http://Fastvplayer.com:8080/images/qw9Sd5JnDX2uSQDrGmMcupez0fMc8d8n15gcBffBtcYgFbFUJpg2M07FRbVWpo9R.png" group-title="CINE HD",CINE HD MEXICO | A3 SERIES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1gp4wyN-uUul9ANfBtthXw/ts
+#EXTINF:-1 xui-id="1781" tvg-id="" tvg-name="CINE HD | AMC" tvg-logo="https://static.epg.best/ar/AMC.ar.png" group-title="CINE HD",CINE HD | AMC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xz_2Gc8AL4s2bJDmnY92Lwo/ts
+#EXTINF:-1 xui-id="1782" tvg-id="" tvg-name="CINE HD | AMC" tvg-logo="https://static.epg.best/ar/AMC.ar.png" group-title="CINE HD",CINE HD | AMC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5bcll8xeHVOJAcGieBe_CQ/ts
+#EXTINF:-1 xui-id="1783" tvg-id="" tvg-name="CINE HD | A&E" tvg-logo="https://static.epg.best/ar/AandE.ar.png" group-title="CINE HD",CINE HD | A&E
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxuabZtNL-wEuRZPz5Iv96g/ts
+#EXTINF:-1 xui-id="1784" tvg-id="" tvg-name="CINE HD | A&E" tvg-logo="https://static.epg.best/ar/AandE.ar.png" group-title="CINE HD",CINE HD | A&E
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0y472gkB3ijAHfg5KeCwec/ts
+#EXTINF:-1 xui-id="1785" tvg-id="" tvg-name="CINE HD | VIX RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" group-title="CINE HD",CINE HD | VIX RETRO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_XUFHXo3sn5v1onz9LXgKM/ts
+#EXTINF:-1 xui-id="1786" tvg-id="" tvg-name="CINE HD | VIX CINE CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" group-title="CINE HD",CINE HD | VIX CINE CLUB
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyvSN45f8HH--bNMJpkzTBA/ts
+#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="CINE FHD | A&E" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="CINE FHD",CINE FHD | A&E
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X53cjm7frg07PToI5qvgYqY/ts
+#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="CINE FHD | AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="CINE FHD",CINE FHD | AMC
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X1BwasL76qVx3xd8E1fx_C8/ts
+#EXTINF:-1 xui-id="100" tvg-id="" tvg-name="CINE FHD | AXN" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="CINE FHD",CINE FHD | AXN
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2aKlHP86p4zbhQf42ZHYZQ/ts
+#EXTINF:-1 xui-id="101" tvg-id="" tvg-name="CINE FHD | CINECANAL" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="CINE FHD",CINE FHD | CINECANAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X59qLtsnYXeuU4qTZtmPzlk/ts
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="CINE FHD | CINEMAX" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="CINE FHD",CINE FHD | CINEMAX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X-muEhAfFhNls9jTqKH4Yps/ts
+#EXTINF:-1 xui-id="103" tvg-id="" tvg-name="CINE FHD | FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="CINE FHD",CINE FHD | FX
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2jtFpxp46hj4cFYgaTsUrQ/ts
+#EXTINF:-1 xui-id="104" tvg-id="" tvg-name="CINE FHD | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE FHD",CINE FHD | STAR CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X8PGIz_wh_Fvkr2DNwomews/ts
+#EXTINF:-1 xui-id="105" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL REALITY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3LTYjc52kLT1slNpKAcOr8/ts
+#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CINEMA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xw_RMpt66NzgUPoJI5nebpA/ts
+#EXTINF:-1 xui-id="107" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL COMEDY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X7Zy8EyiAZUpEvRCqxU451c/ts
+#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL PREMIERE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X49mcL3z_WQH7iNerZrvt8c/ts
+#EXTINF:-1 xui-id="109" tvg-id="" tvg-name="CINE FHD | HBO" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="CINE FHD",CINE FHD | HBO
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_wnTwYEZqi9QaqRJZhTUyE/ts
+#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="CINE FHD | HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE FHD",CINE FHD | HBO 2
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XykRaGGa7AG3c6ALIg2oj-0/ts
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="CINE FHD | HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE FHD",CINE FHD | HBO FAMILY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xwfd0dqcCpAbIUinWlW6Ye8/ts
+#EXTINF:-1 xui-id="112" tvg-id="" tvg-name="CINE FHD | HBO MUNDI" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="CINE FHD",CINE FHD | HBO MUNDI
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X9xwTZZi1gz_87pzQPkGFQg/ts
+#EXTINF:-1 xui-id="113" tvg-id="" tvg-name="CINE FHD | HBO PLUS" tvg-logo="https://static.epg.best/pa/HBOPlusPanamericano.pa.png" group-title="CINE FHD",CINE FHD | HBO PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwaJpVrHWARRTPSrvQAnR_Q/ts
+#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="CINE FHD | HBO POP" tvg-logo="https://static.epg.best/br/maxUP.br.png" group-title="CINE FHD",CINE FHD | HBO POP
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XxpkgwPRpkGppYbnuf4M5Lw/ts
+#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="CINE FHD | HBO SIGNATURE" tvg-logo="https://static.epg.best/br/HBOSignature.br.png" group-title="CINE FHD",CINE FHD | HBO SIGNATURE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_IAH8W_95kfdrcjs3apLpY/ts
+#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="CINE FHD | HBO XTREME" tvg-logo="https://static.epg.best/br/MaxPrimeBrasil.br.png" group-title="CINE FHD",CINE FHD | HBO XTREME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XyO2T1hySv6f64yJsgpP8Hg/ts
+#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="CINE FHD | SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CINE FHD",CINE FHD | SPACE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X54VbC7lSo-vWTjF-v_WnkU/ts
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="CINE FHD | SONY" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="CINE FHD",CINE FHD | SONY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X5SEfOPp5467A25ZDObSwlI/ts
+#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="CINE FHD | SYFY" tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="CINE FHD",CINE FHD | SYFY
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xwt-imlRdl91PdnmCtpfAXk/ts
+#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="CINE FHD | TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="CINE FHD",CINE FHD | TCM
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_cbt8Wrt5ce4RKFpyxB_O0/ts
+#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="CINE FHD | TNT SERIES" tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="CINE FHD",CINE FHD | TNT SERIES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X020MwPMYIXUadVad5PXCCU/ts
+#EXTINF:-1 xui-id="122" tvg-id="" tvg-name="CINE FHD | TNT" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="CINE FHD",CINE FHD | TNT
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X0i5_FiIJbZ2iYJU97fXjZA/ts
+#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="CINE FHD | UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="CINE FHD",CINE FHD | UNIVERSAL CHANNEL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xyi0rJsstaKBZnL_sTWUcS0/ts
+#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="CINE FHD | STUDIO UNIVERSAL" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png" group-title="CINE FHD",CINE FHD | STUDIO UNIVERSAL
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6MKwWTFP8XuI8Eha7KETHA/ts
+#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="CINE FHD | WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="CINE FHD",CINE FHD | WARNER
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_Jc15kdjXW5uoD6FzMgWu8/ts
+#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="CINE FHD | MOVISTAR ACCION" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="CINE FHD",CINE FHD | MOVISTAR ACCION
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2XwWqStTxn6qympdfEOF7t4c/ts
+#EXTINF:-1 xui-id="127" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CRIME
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X_Zb4QhaDo4uEvyCDAugch8/ts
+#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="CINE FHD | GOLDEN EDGE" tvg-logo="https://static.epg.best/pa/GoldenEdgeLatinAmerica.pa.png" group-title="CINE FHD",CINE FHD | GOLDEN EDGE
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X69kZ6g5cR18jiTuwlO3hNM/ts
+#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="CINE FHD | GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="CINE FHD",CINE FHD | GOLDEN PLUS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X6T5m3muVc8jov5V8Nyi23Y/ts
+#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="CINE FHD | PARAMOUNT" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE FHD",CINE FHD | PARAMOUNT
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2OK8RpaF94FldB8vRxqBR4/ts
+#EXTINF:-1 xui-id="131" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="UNIVERSAL +",UNIVERSAL + | UNIVERSAL CINEMA
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2Xyd5MFQiAl0Zjbfk5fz0aac/ts
+#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="SONY | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="SONY (PACK PREMIUM)",SONY | MOVIES
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2ozmubDtZGHVA_M1gXh05w/ts
+#EXTINF:-1 xui-id="134" tvg-id="" tvg-name="SONY | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SONY (PACK PREMIUM)",SONY | NOVELAS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X3Q8RMQJ9W73FIksJ5sSA_I/ts
+#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="SONY  | COMEDIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SONY (PACK PREMIUM)",SONY  | COMEDIAS
+http://fastvdigitalonline.com:8080/play/StNxrzr3xkI0UF__i6m2X2CG9JBBboAgs1Gf90X_6Fw/ts
